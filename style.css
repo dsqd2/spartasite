@@ -1,0 +1,163 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f1f0f0;
+    padding: 20px;
+}
+nav {
+    width: 100%;
+    height: 60px;
+    background: #8B0000;
+    padding: 0px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+.btn {
+    display: inline-block;
+    background: #ffd700;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    transform: translateX(-20px) translateY(10px);
+    font-size: 20px;
+}
+
+
+.title{
+    color: #8B0000;
+
+}
+
+.mainphoto{
+
+    transform: translateY(-40px);
+}
+
+IMG {
+    border-radius: 90px;
+    padding: 5px;
+}
+
+.logo{
+    transform: translateY(-20px);
+}
+
+.sportcenter{
+    transform: translateY(-45px);
+}
+
+.card-img-top {
+    width: 685px;
+    height: 585px;
+    background: #8B0000;
+    padding: 10px;
+    border-radius: 100px;
+    margin-bottom: 30px;
+}
+
+.names {
+    transform: translateY(-45px);
+    
+}
+
+
+
+h3 {
+ background: #8B0000;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+.card {
+    width: 700px;
+    background: #8B0000;
+    padding: 10px;
+    border-radius: 100px;
+    margin-bottom: 30px;
+    margin: 0 auto 30px auto;
+}
+
+.card1{
+    width: 95%;
+    height: 200px;
+    background: #8B0000;
+    padding: 15px;
+    border-radius: 70px;
+    margin: 0 auto 30px auto;
+    transform: translateY(-30px);
+
+}
+
+.card2 {
+    width: 850px;
+    height: 570px;
+    background: #8B0000;
+    padding: 10px;
+    border-radius: 100px;
+    margin-bottom: 30px;
+    margin: 5px;
+}
+
+.card3 {
+    flex: 1;
+    display: flex;
+    display: inline-block;
+    width: 32.4%;
+    height: 210px;
+    background: #8B0000;
+    padding: 5px;
+    border-radius: 100px;
+    margin: 5px;
+}
+
+.container {
+    display: flex;
+    gap: 10px;
+}
+
+
+.right {
+    transform: translateX(40px);
+    color:white
+}
+
+
+.tginfo {
+    transform: translateX(40px);
+    color:white;
+}
+
+.emailinfo {
+    color:white;
+    font-size: 35px;
+
+}
+
+.numberinfo {
+    color:white;
+    font-size: 35px;
+
+}
+
+.map {
+    display: flex;
+    width: 60%;
+    height: 780px;
+    background: #8B0000;
+    padding: 10px;
+    border-radius: 100px;
+    margin-bottom: 30px;
+
+
+}
+
+.btn:hover { background: #d4b504; }
+h1 { color: #000000; }
+h2 { color: #000000; }
+
+h1 {color: #ffd700}
+
